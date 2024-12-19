@@ -8,6 +8,7 @@ langchain
 streamlit
 langserve
 sse_starlette
+faiss-cpu
 fastapi
 uvicorn
 bs4
