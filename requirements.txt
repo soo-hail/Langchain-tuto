@@ -2,7 +2,9 @@ langchain_openai
 langchain_groq
 langchain_core
 langchain_community
-python-dotenv
+sentence-transformers
+transformers
+langchain 
 streamlit
 langserve
 sse_starlette
