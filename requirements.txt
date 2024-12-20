@@ -2,9 +2,11 @@ langchain_openai
 langchain_groq
 langchain_core
 langchain_community
+langchainhub
 sentence-transformers
 transformers
 langchain 
+langgraph
 streamlit
 langserve
 sse_starlette
@@ -12,3 +14,5 @@ faiss-cpu
 fastapi
 uvicorn
 bs4
+wikipedia
+arxiv
